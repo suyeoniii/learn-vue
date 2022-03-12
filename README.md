@@ -1,2 +1,2 @@
-# learn-vue
-learn-vue.js
+# Vue.js
+Vue.js 공부
